@@ -53,7 +53,7 @@ export default function MobileAppsUI() {
           className="text-center mb-16"
         >
           <h1
-            className="text-4xl sm:text-5xl font-bold text-[#153c3c] mb-4 tracking-tight"
+            className="text-4xl sm:text-5xl font-thin text-[#153c3c] mb-4 tracking-tight"
             style={{ fontFamily: "Inter, sans-serif" }}
           >
             Mobile Apps: Manage Your Business Anywhere
